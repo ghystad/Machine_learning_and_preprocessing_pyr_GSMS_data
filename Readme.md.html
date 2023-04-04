@@ -1,0 +1,29 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Readme.md</title><style></style></head><body id="preview">
+<h1 class="code-line" data-line-start=1 data-line-end=2><a id="The_Rcode_is_created_for_the_paper_1"></a>The R-code is created for the paper</h1>
+<h2 class="code-line" data-line-start=3 data-line-end=4><a id="A_robust_molecular_biosignature_based_on_machine_learning_applied_to_threedimensional_pyrolysis_GCMS_data_3"></a>A robust molecular biosignature based on machine learning applied to three-dimensional pyrolysis GC-MS data</h2>
+<p class="has-line-data" data-line-start="4" data-line-end="5">H. James Cleaves II^1,2,3, Grethe Hystad^4, Anirudh Prabhu^1, Michael L. Wong ^1,5, George D. Cody^1, Sophia Economon^6, and Robert M. Hazen^1</p>
+<p class="has-line-data" data-line-start="6" data-line-end="12"><em>1. Earth and Planets Laboratory, Carnegie Institution for Science, Washington, DC 20015, USA</em><br>
+<em>2. Earth Life Science Institute, Tokyo Institute of Technology, Tokyo, Japan</em><br>
+<em>3. Blue Marble Space Institute for Science, Seattle, WA 98104, USA</em><br>
+<em>4. Mathematics and Statistics, Purdue University Northwest, Hammond, IN 46323, USA</em><br>
+<em>5. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA</em><br>
+<em>6. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA</em></p>
+<p class="has-line-data" data-line-start="13" data-line-end="15">Three-dimensional (scan number /mass-to-charge ratio/intensity) data from biotic and abiotic samples are obtained by pyrolysis-gas chromatography mass spectrometry. The R-code created is for preprocessing these data and to use machine learning to predict whether a sample is biotic or abiotic (Preprocessing_training_and_test_data_random_forest).<br>
+Nested resampling is used to obtained an estimate for the prediction performance of the model (Nested_resampling_random_forest).</p>
+<p class="has-line-data" data-line-start="16" data-line-end="21">The resulting peaks from the preprocessing steps are aligned based on the paper by<br>
+Tibshirani, R., et al. (2004)<br>
+Sample classification from proteing mass spectrometry by peak probability contrasts.<br>
+Bioinformatis, 20(17):3034-44<br>
+<a href="https://academic.oup.com/bioinformatics/article/20/17/3034/186323">https://academic.oup.com/bioinformatics/article/20/17/3034/186323</a></p>
+<p class="has-line-data" data-line-start="22" data-line-end="23">The pyr-GC-MS data, named “Cleavesetal.pyrGCMSData.zip”, can be found at <a href="https://accounts.osf.io/login?service=https://osf.io/embh8/">https://accounts.osf.io/login?service=https://osf.io/embh8/</a></p>
+<p class="has-line-data" data-line-start="24" data-line-end="25">The application is released under GNU GPL version 3 license, noting that the following R-libraries are licensed as follows:</p>
+<p class="has-line-data" data-line-start="26" data-line-end="35">dplyr: MIT<br>
+MALDIquant: GPL ≥ 3<br>
+caret: GPL-2, GPL-3 (expanded from GPL-2)<br>
+mlr3: LGPL-3<br>
+mlr3verse: LGPL-3<br>
+mlr3learners: LGPL-3<br>
+mlr3tuning: LGPL-3<br>
+data.table: MPL-2.0<br>
+ggplot2: MIT</p>
+</body></html>
