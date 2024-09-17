@@ -11,6 +11,9 @@ H. James Cleaves II<sup>1,2,3</sup>, Grethe Hystad<sup>4</sup>, Anirudh Prabhu<s
 *5. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA.*
 *6. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA.*
 
+Proceedings of the National Academy of Sciences, 120(41), e2307149120,
+2023. https://www.pnas.org/doi/abs/10.1073/pnas.2307149120
+
 ## Introduction
 Three-dimensional (scan number /mass-to-charge ratio/intensity) data from biotic and abiotic samples are obtained by pyrolysis-gas chromatography mass spectrometry. The R-code created is for preprocessing these data and to use machine learning to predict whether a sample is biotic or abiotic (Preprocessing_training_and_test_data_random_forest).
 Nested resampling is used to obtained an estimate for the prediction performance of the model (Nested_resampling_random_forest).
