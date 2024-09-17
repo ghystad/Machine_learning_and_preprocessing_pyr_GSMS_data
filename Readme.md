@@ -2,7 +2,7 @@
 # The R-code is created for the paper
 
 ## A Robust, Agnostic Molecular Biosignature Based on Machine Learning. 
-H. James Cleaves II^1,2,3, Grethe Hystad^4, Anirudh Prabhu^1, Michael L. Wong ^1,5, George D. Cody^1, Sophia Economon^6, and Robert M. Hazen^1
+H. James Cleaves II1,2,3</sup>, Grethe Hystad4</sup>, Anirudh Prabhu1</sup>, Michael L. Wong1,5</sup>, George D. Cody1</sup>, Sophia Economon6</sup>, and Robert M. Hazen1</sup>
 
 *1. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA*
 *2. Earth Life Science Institute, Tokyo Institute of Technology, Tokyo, Japan*
