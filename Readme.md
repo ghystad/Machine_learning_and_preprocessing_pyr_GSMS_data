@@ -4,12 +4,17 @@
 ## A Robust, Agnostic Molecular Biosignature Based on Machine Learning. 
 H. James Cleaves II<sup>1,2,3</sup>, Grethe Hystad<sup>4</sup>, Anirudh Prabhu<sup>1</sup>, Michael L. Wong<sup>1,5</sup>, George D. Cody<sup>1</sup>, Sophia Economon<sup>6</sup>, and Robert M. Hazen<sup>1</sup>
 
-*1. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA.*
-*2. Earth Life Science Institute, Tokyo Institute of Technology, Tokyo, Japan.*
-*3. Blue Marble Space Institute for Science, Seattle, WA 98104, USA.*
-*4. Mathematics and Statistics, Purdue University Northwest, Hammond, IN 46323, USA.*
-*5. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA.*
-*6. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA.*
+1. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA.
+   
+3. Earth Life Science Institute, Tokyo Institute of Technology, Tokyo, Japan.
+   
+5. Blue Marble Space Institute for Science, Seattle, WA 98104, USA.
+ 
+7. Mathematics and Statistics, Purdue University Northwest, Hammond, IN 46323, USA.
+   
+9. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA.
+    
+11. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA.
 
 *Proceedings of the National Academy of Sciences*, 120(41), e2307149120,
 2023. https://www.pnas.org/doi/abs/10.1073/pnas.2307149120
