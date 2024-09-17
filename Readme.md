@@ -4,12 +4,12 @@
 ## A Robust, Agnostic Molecular Biosignature Based on Machine Learning. 
 H. James Cleaves II<sup>1,2,3</sup>, Grethe Hystad<sup>4</sup>, Anirudh Prabhu<sup>1</sup>, Michael L. Wong<sup>1,5</sup>, George D. Cody<sup>1</sup>, Sophia Economon<sup>6</sup>, and Robert M. Hazen<sup>1</sup>
 
-*1. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA*
-*2. Earth Life Science Institute, Tokyo Institute of Technology, Tokyo, Japan*
-*3. Blue Marble Space Institute for Science, Seattle, WA 98104, USA*
-*4. Mathematics and Statistics, Purdue University Northwest, Hammond, IN 46323, USA*
-*5. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA*
-*6. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA*
+*1. Earth and Planets Laboratory, Carnegie Science, Washington, DC 20015, USA *
+*2. Earth Life Science Institute, Tokyo Institute of Technology, Tokyo, Japan *
+*3. Blue Marble Space Institute for Science, Seattle, WA 98104, USA *
+*4. Mathematics and Statistics, Purdue University Northwest, Hammond, IN 46323, USA *
+*5. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA *
+*6. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA *
 
 Three-dimensional (scan number /mass-to-charge ratio/intensity) data from biotic and abiotic samples are obtained by pyrolysis-gas chromatography mass spectrometry. The R-code created is for preprocessing these data and to use machine learning to predict whether a sample is biotic or abiotic (Preprocessing_training_and_test_data_random_forest).
 Nested resampling is used to obtained an estimate for the prediction performance of the model (Nested_resampling_random_forest).
