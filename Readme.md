@@ -11,7 +11,7 @@ H. James Cleaves II<sup>1,2,3</sup>, Grethe Hystad<sup>4</sup>, Anirudh Prabhu<s
 *5. NHFP Sagan Fellow, NASA Hubble Fellowship Program, Space Telescope Science Institute, Baltimore, MD 21218, USA.*
 *6. Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218, USA.*
 
-Proceedings of the National Academy of Sciences, 120(41), e2307149120,
+*Proceedings of the National Academy of Sciences*, 120(41), e2307149120,
 2023. https://www.pnas.org/doi/abs/10.1073/pnas.2307149120
 
 ## Introduction
