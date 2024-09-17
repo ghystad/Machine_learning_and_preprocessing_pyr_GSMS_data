@@ -44,3 +44,5 @@ mlr3learners: LGPL-3
 mlr3tuning: LGPL-3
 data.table: MPL-2.0
 ggplot2: MIT
+
+Cite the code: [![DOI](https://zenodo.org/badge/623661351.svg)](https://zenodo.org/doi/10.5281/zenodo.13774782)
